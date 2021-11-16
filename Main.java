@@ -1,6 +1,6 @@
 /* 
 * Main.java
-* Sidharth Sreeram, Michael Kim, Luca Mancuso, Jeremy Xue
+* Michael Kim
 * ICS 4U1
 * June 18 2021
 * Purpose: to activate the game in story.java

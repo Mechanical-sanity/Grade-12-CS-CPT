@@ -1,4 +1,4 @@
-# Grade-12-CS-CPT
+# Java-Swing-Adventure-Game 
 RPG game made in java, utilizing buttons, user inputs, a window, and a save system
 
 Specifically, this was designed to to run on replit, as that was the only option available to students. That is the reason why all of these class files exist.
